@@ -3,7 +3,7 @@
 Anton Pikhur. 26.09.2022
 
 Status of Last Deployment:<br>
-<img src='https://github.com/AntonPikhur/Cypress-Telnyx/actions/workflows/CodeQL/badge.svg>
+<img src='https://github.com/AntonPikhur/Cypress-Telnyx/actions/workflows/CodeQL/badge.svg?branch=master'><br>
 
 -----------------------------------------------------
 Description:
