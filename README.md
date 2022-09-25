@@ -4,10 +4,17 @@ Test cases ./
 Tests ./cypress/e2e/specs/
 Page objects ./cypress/e2e/pages/
 
-Need to instal befor use:
-1. You need to visit https://docs.cypress.io/guides/getting-started/installing-cypress to instal framework.
-2. Use " npm i -D cypress-if " to instal cypress-if plugin
-3. Use " npm install -D cypress-xpath " to instla cypress-XPath plugin.
+Steps to use:
+1. Install Visual Studio Code (VSC) from --> https://code.visualstudio.com/ .
+2. Install Node.js from --> https://nodejs.org/uk/ .
+3. Install Java from --> https://www.java.com/ru/download/ .
+4. Clone or download this repository.
+5. Open repository folder in VSC.
+6. Create terminal with hotkeys Ctrl + Shift + `
+7. Write command " npx cypress open ", press Enter. It will open Cypress window in a moment.
+8. In window choose E2E Testing.
+9. Choose browser and push green button.
+10. Click on telnyx_tests.cy.js file.
+11. Enjoy the testing.
 
-Commands:
-To launch Cypress: npx cypress open
+
