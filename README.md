@@ -1,3 +1,10 @@
+-----------------------------------------------------
+
+Anton Pikhur. 26.09.2022
+
+https://github.com/AntonPikhur/Cypress-Telnyx/actions/workflows/CodeQL/badge.svg
+
+-----------------------------------------------------
 Description:
 Here you can find 10 functional test cases of Telnyx website (https://telnyx.com/). They created using Cypress e2e.
 Test cases ./
@@ -16,5 +23,4 @@ Steps to use:
 9. Choose browser and push green button.
 10. Click on telnyx_tests.cy.js file.
 11. Enjoy the testing.
-
-
+------------------------------------------------------
