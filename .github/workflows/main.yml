@@ -1,0 +1,31 @@
+#---------------------------------------------------------
+#
+#         Anton Pikhur 26.09.2022
+#
+#---------------------------------------------------------
+
+name: My-Basic_pipeline
+
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  instal:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: install_cypress
+        run : |
+          npm install cypress --save-dev
+          npm i -D cypress-if
+          npm install -D cypress-xpath
+          
+          
+      - name : run_cypress
+        run  : npm cypress open
