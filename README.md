@@ -6,6 +6,7 @@ Anton Pikhur. 26.09.2022
 
 -----------------------------------------------------
 Description:
+
 Here you can find 10 functional test cases of Telnyx website (https://telnyx.com/). They created using Cypress e2e.
 Test cases ./
 Tests ./cypress/e2e/specs/
