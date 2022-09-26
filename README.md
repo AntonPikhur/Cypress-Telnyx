@@ -29,4 +29,5 @@ Steps to use:
 14. Enjoy the testing.
 
 If you want to have video and screenshot files of failed test - go to --> https://dashboard.cypress.io/ . Sign up there and follow instructions to connect your account to this tests. Files will be saved ./cypress/screenshots/ and ./cypress/videos/ .
+
 ------------------------------------------------------
