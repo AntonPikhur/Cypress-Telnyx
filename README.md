@@ -18,10 +18,13 @@ Steps to use:
 3. Install Java from --> https://www.java.com/ru/download/ .
 4. Clone or download this repository.
 5. Open repository folder in VSC.
-6. Create terminal with hotkeys Ctrl + Shift + `
-7. Write command " npx cypress open ", press Enter. It will open Cypress window in a moment.
-8. In window choose E2E Testing.
-9. Choose browser and push green button.
-10. Click on telnyx_tests.cy.js file.
-11. Enjoy the testing.
+6. Create terminal with hotkeys Ctrl + Shift + ` .
+7. Install Cypress framework, instruction --> https://docs.cypress.io/guides/getting-started/installing-cypress .
+8. Use in terminal " npm i -D cypress-if " to instal cypress-if plugin
+9. Use in terminal " npm install -D cypress-xpath " to instla cypress-XPath plugin.
+10. Write command " npx cypress open ", press Enter. It will open Cypress window in a moment.
+11. In window choose E2E Testing.
+12. Choose browser and push green button.
+13. Click on telnyx_tests.cy.js file.
+14. Enjoy the testing.
 ------------------------------------------------------
